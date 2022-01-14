@@ -20,10 +20,3 @@ As indicated in Results, not all handwriting tasks provide the same level of dis
 Decision support tools are gaining significant research interest due to their potential to improve health-care provision. Among many possible approaches, those that provide noninvasive monitoring and diagnosis of diseases are of increased interest to clinicians and biomedical engineers.
 
 We aim to provide this diagnosis to people in remote areas where healthcare is not just lacking but extremely inadequate.
-
-
-## References
-1. [Analysis of in-air movement in handwriting: A novel marker for Parkinson’s disease](https://www.sciencedirect.com/science/article/pii/S0169260714003204)
-2. [Evaluation of handwriting kinematics and pressure for differential diagnosis of Parkinson’s disease](https://www.sciencedirect.com/science/article/pii/S0933365716000063)
-3. [Parkinson's Foundation: Better Lives. Together.](http://parkinson.org/understanding-parkinsons)
-4. [Parkinson's Disease Information Page | National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/Disorders/All-Disorders/Parkinsons-Disease-Information-Page)
